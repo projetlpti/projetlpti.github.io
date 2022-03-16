@@ -1,0 +1,180 @@
+nav ul li{
+    list-style-type: none;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px ;
+    letter-spacing: 0.3rem;
+    text-transform: uppercase;
+    border-style:hidden ;
+}
+
+#b {
+    background-image: url("/rimages/Airplane-Images-with-Beautiful-Picture-of-Flight-in-Sunset-500x313-912x912.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+nav ul li :active{
+    background-color: #fff;
+}
+
+#d{
+    background-image: url(/rimages/dubai-6016022_1280.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+
+#a{
+    background-image: url(/rimages/dud.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.image{
+    text-align: center;
+    margin: auto;
+}
+
+.barnner{
+    color: white;
+    font-size: 2.5em;
+    margin-top: 150px;
+
+}
+
+#pad{
+    color: white;
+    font-size: 2em;
+    text-align: center;
+
+}
+
+#ph2{
+    margin-left: 127px;
+}
+/*dubai*/
+
+#hm{
+    background-image: url(/rimages/k.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+}
+
+#pm{
+    font-size: 30px;
+}
+
+
+#h1mo{
+    font-size: 100px;
+    margin-left: 65%;
+    margin-top: 10%;
+}
+
+body{
+    font-size: 30px;
+    padding: 0;
+    margin: 0;
+    background-color: aliceblue;
+}
+
+/*moscou*:*/
+
+#hny{
+    background-image: url(/rimages/statue.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 800px;
+    margin-top: 0;
+}
+
+h1{
+    color: white;
+}
+
+#h1n1{
+    font-size: 100px; 
+    margin-left: 10%;
+}
+
+#imgc{
+    margin-left: 20%;
+}
+
+p{
+    text-align: center;
+}
+
+#bdy{
+    background-color: aliceblue;
+    border: hidden;
+    box-shadow: 10px 10px;
+}
+
+#p2dub{
+    color: white;
+    text-align: left;
+    display: inline-block;
+}
+/*new-york*/
+
+#hri{
+    background-image: url(/rimages/R\ \(2\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+    padding: 0px;
+    margin: 0px;
+}
+
+#h1ri{
+    text-transform: uppercase;
+    margin-left: 50%;
+    margin-top: 20%;
+    font-size: 70px;
+}
+
+h2{
+    text-align: center;
+}
+
+
+
+
+#div2{
+    margin-top: 1000px;
+}
+/*pékin*/
+#hpk{
+    background-image: url(/rimages/temple-of-heaven-3675835_1920.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+#h1pk{
+    font-size: 100;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+section{
+    text-align: center;
+}
+
+#sq{
+    display: inline-block;
+    
+}
+
+#r10{
+    margin-left: 100px;
+}
+
